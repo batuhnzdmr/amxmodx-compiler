@@ -41,8 +41,8 @@ chmod +x compile.sh
 
 3. **Prepare Files:**
 
-    * Place your plugin source files `(.sma)` into the `sma` directory.
-    * Place any required include files `(.inc)` into the `include` directory.
+* Place your plugin source files `(.sma)` into the `sma` directory.
+* Place any required include files `(.inc)` into the `include` directory.
 
 5. **Run the Script:**
 
